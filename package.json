@@ -10,7 +10,6 @@
     "lint": "expo lint"
   },
   "dependencies": {
-    "@expo/webpack-config": "^19.0.1",
     "expo": "^54.0.33",
     "expo-router": "~6.0.23",
     "expo-status-bar": "~3.0.9",
